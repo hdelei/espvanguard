@@ -1,7 +1,7 @@
 #ifndef STASSID
-#define STASSID "YOURSSID"
-#define STAPSK  "YOURPASSWORD"
+#define STASSID "test"
+#define STAPSK "123test"
 #endif
 
-const char* ssid = STASSID;
-const char* password = STAPSK;
+const char *ssid = STASSID;
+const char *password = STAPSK;
